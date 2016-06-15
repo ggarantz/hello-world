@@ -1,2 +1,3 @@
 # hello-world
-the first testing repository
+
+Τι νέα; Τι σόι εργαλείο είναι αυτό; Άραγε θα μου χρησιμεύσει;
